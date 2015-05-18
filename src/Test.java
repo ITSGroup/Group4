@@ -3,8 +3,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		system.out.print("Hello Git Hub");
-
+		System.out.println("Bye bye");
 	}
 
 }
